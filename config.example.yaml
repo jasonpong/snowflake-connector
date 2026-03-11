@@ -1,0 +1,8 @@
+snowflake:
+  default:
+    account: your-account.us-east-1
+    user: your_username
+    warehouse: YOUR_WAREHOUSE
+    database: YOUR_DATABASE
+    schema: PUBLIC
+    role: YOUR_ROLE  # optional
